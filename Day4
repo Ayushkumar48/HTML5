@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VIT BHOPAL</title>
+  </head>
+  <body style="background-color: rgb(94, 233, 187)">
+    <header>
+      <a href="https://www.google.com"><button>Home</button></a>
+      <a href="https://www.wikipedia.com"><button>About</button></a>
+      <a href="https://www.geeksforgeeks.com"><button>Contact Us</button></a>
+      <br />
+      <hr size="4" />
+    </header>
+    <h1 style="text-align: center;color:rgb(8, 8, 158)">
+      <strong style="font-size: 40px"
+        >Welcome to Gaming Department of VIT BHOPAL</strong
+      >
+    </h1><hr size="4" />
+    <p style="font-size: 125%; text-align: justify">
+      Game Development at VIT Bhopal includes not only the art of game
+      development, but also Computer Science and Engineering, Artificial
+      Intelligence, Data Science. Most of the courses in the curriculum are
+      practical oriented.
+      <br />
+      The curriculum attracts all kinds of students having interest and skills
+      in various categories like competitive programming, game design and
+      mechanics, human computer interaction and artificial engineering etc.
+    </p>
+    <hr size="4" />
+    <br />
+    <pre style="font-family: contour;font-size:105%;">
+    "Golden rule of level design - Finish your first level last."
+
+                                                                              - John Romero
+    </pre>
+    <h2 style="color: rgb(17, 186, 85)">Career Prospects</h2>
+    <ul style="font-size: 110%">
+      <li>Game Developer</li>
+      <li>Game Designers</li>
+      <li>Game Animators</li>
+      <li>Game Tester</li>
+      <li>Narrative Designer</li>
+      <li>Audio Engineer</li>
+    </ul>
+    <br><br><br><br>
+    <footer style="text-align: center">VIT BHOPAL</footer>
+  </body>
+</html>
