@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        button.a1{
+            background-color: white;
+            border:none;
+            color:grey;
+            padding:15px;
+            display: inline-block;
+            font-size: 16px;
+            margin:4px 2px;
+            text-align: center;
+            text-decoration: none;
+            cursor:pointer;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div>
+            <img src="download.png" alt="abc" style="align-self:left; width: 20%;">
+            <span>
+                
+                <button class="a1"><a href="https://www.codingminutes.com/#courses">Our Courses</a></button>
+                <button class="a1"><a href="https://www.codingminutes.com/#blogs">Blogs</a></button>
+                <button class="a1"><a href="https://discord.gg/jwvtDtnkJv">Community</a></button>
+                <button class="a1"><a href="https://www.codingminutes.com/#campus-captains">Be a Captain</a></button>
+                <button class="a1"><a href="https://ide.codingminutes.com/">CM IDE</a></button>
+                <button class="a1"><a href="https://www.codingminutes.com/#team">Mentors</a></button>
+            </span>
+            <hr>
+        </div>
+    </header>
+    <h1>abc</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam facere dolor quia error autem ipsam a, tempore tenetur reprehenderit? Veniam perspiciatis asperiores in repudiandae illo sapiente, error tempore qui quibusdam, eaque quaerat accusamus, repellat temporibus incidunt. Odio deleniti assumenda repellat aspernatur porro debitis vel cum sit. Facere recusandae officiis fugit quibusdam ab voluptatum, in laborum excepturi nesciunt, molestias velit illo expedita nihil nemo doloribus qui. Sequi voluptas sit, ad libero mollitia esse sapiente quia suscipit numquam ut! Consequuntur esse culpa ut ad! Excepturi exercitationem quod architecto veritatis et unde ipsa voluptas dolorem nulla, vitae minus ad ipsam maxime perferendis fuga quasi pariatur libero officiis nisi corporis aspernatur optio aliquid tempora. Quae suscipit obcaecati aliquam dolorum adipisci, aliquid deserunt animi. Voluptatem, quae explicabo omnis cumque consectetur eligendi! Incidunt id aliquam eaque, sapiente ad, exercitationem quidem magni, mollitia tenetur eveniet quo illo. Molestias, odit. Beatae harum consequatur nesciunt aspernatur perspiciatis placeat esse necessitatibus tempora voluptates dolore facere sit neque rerum sapiente provident veniam molestias, veritatis at adipisci corporis dolor tempore ad, unde quos. Aperiam fugit voluptatem pariatur qui odio accusantium culpa distinctio quae quisquam sapiente facere quam, cumque rem numquam sed incidunt quidem atque illum placeat quibusdam sint temporibus dicta. Reiciendis, iste accusantium. Perspiciatis nam ex sequi corporis rerum repudiandae suscipit maiores quaerat non iure pariatur, libero unde ducimus laudantium explicabo quas ab, facere in vel sit autem doloribus fuga dicta? Provident esse repudiandae, corporis consequuntur quo quos nulla, nihil exercitationem corrupti quaerat voluptate eos totam. Dolores earum error ipsa ipsam eius aut asperiores ab nostrum fugit commodi, animi quia libero quos laboriosam eum qui aperiam quidem esse sed consectetur modi temporibus! Placeat est in consectetur doloremque earum dolorem commodi eius! Consequatur aut blanditiis labore cumque sunt omnis, veritatis ullam dolorem pariatur, praesentium eaque totam obcaecati magni iusto tempore quo odio est.</p>
+</body>
+</html>
