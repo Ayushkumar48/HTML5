@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Books to read</h1>
+    <p>There are a lot of books to read</p>
+    <a href="https://www.google.com">This is google.com</a>
+    <!-- Image tag -->
+    <img src="https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-674010.jpg&fm=jpg" alt="under" width="90px">
+    <b>This is bold</b>
+    <br>
+    <i>This is italic</i>
+    <br>
+    <u>This is underline</u>
+    <hr>
+</body>
+</html>
